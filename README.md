@@ -1,7 +1,3 @@
-_Update Feb '24: For the past couple of years I've been working largely on closed-source proprietary software — under a separate account — in a startup that demanded most of my time, until very recently. Now, I'm excited that this 2024 I will be publishing some open-source code in here again — starting with a few recent promising, fun experiments in Deep Reinforcement Learning!_
-
----
-
 ### Hi there! 👋
 
 This is Alexis. My goal is to blur the frontiers between mind and machine, using **Deep Learning** and **Brain-Computer Interfaces**.
