@@ -12,16 +12,9 @@ Some interesting repos from my journey so far:
 - A simple setup to have an [Aleph Zero decentralized validator node running in under an hour](https://github.com/alexispomares/aleph-zero-validator).
 - Samantha OS ([pt 1](https://github.com/alexispomares/samantha-OS-pt1) and [pt 2](https://github.com/alexispomares/samantha-OS-pt2)), a WIP to eventually have a human-level LLM use my computer for me, based on [_OpenInterpreter_](https://twitter.com/hellokillian/status/1699156860073640038).
 - Testing the current limits for [LLMs to accurately simulate human behavior](https://github.com/alexispomares/the-truman-show), based on [_Generative Agents_](https://twitter.com/DrJimFan/status/1689315683958652928).
-<!--- - [Procedural music generation to induce desirable mental states](https://github.com/alexispomares/zone.music) (focus, creativity, sleep), inspired by _[Brain.fm](https://brain.fm/science)'s_ EEG studies. -->
-
-<p align="center">
-  .  .  .
-</p>
-
-Other links about me:
-
 - Built [Lymbic.ai](https://lymbic.ai), a startup to develop neuroadaptive apps that integrate the user's mental states (e.g. mood) in real time.
-<!--- - Feel free to reach out via [LinkedIn](https://linkedin.com/in/alexispomares)! -->
+<!--- - [Procedural music generation to induce desirable mental states](https://github.com/alexispomares/zone.music) (focus, creativity, sleep), inspired by _[Brain.fm](https://brain.fm/science)'s_ EEG studies.
+- Feel free to reach out via [LinkedIn](https://linkedin.com/in/alexispomares)! -->
 
 <p align="center">
   .  .  .
