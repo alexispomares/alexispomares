@@ -20,8 +20,8 @@ Some interesting repos from my journey so far:
 
 Other links about me:
 
-- Built [Lymbic.ai](https://lymbic.io), a startup to develop neuroadaptive apps that integrate the user's mental states (e.g. mood) in real time.
-- Feel free to reach out via [LinkedIn](https://linkedin.com/in/alexispomares)!
+- Built [Lymbic.ai](https://lymbic.ai), a startup to develop neuroadaptive apps that integrate the user's mental states (e.g. mood) in real time.
+<!--- - Feel free to reach out via [LinkedIn](https://linkedin.com/in/alexispomares)! -->
 
 <p align="center">
   .  .  .
