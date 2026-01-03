@@ -10,7 +10,7 @@ Some interesting repos from my journey so far:
 - A way to [play mobile games using your (ECG) heart rate in real time](https://github.com/alexispomares/space-heart-attack).
 - A simple setup to have an [Aleph Zero decentralized validator node running in under an hour](https://github.com/alexispomares/aleph-zero-validator).
 - Built [Lymbic.ai](https://lymbic.ai), a startup to develop neuroadaptive apps that integrate the user's mental states (e.g. mood) in real time.
-- Feel free to reach out via [LinkedIn](https://linkedin.com/in/alexispomares)! -->
+- Feel free to reach out on [LinkedIn](https://linkedin.com/in/alexispomares)
 
 <p align="center">
   .  .  .
