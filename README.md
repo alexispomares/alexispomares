@@ -1,14 +1,11 @@
-### Hi there 👋
+### Hi 👋
 
-This is Alexis. I'm working at the intersection of mind and machine, using brain-computer interfaces and deep learning.
-
-Some interesting repos from my journey so far:
+This is Alexis, I work at the intersection of mind and machine. Some interesting repos from my journey so far:
 
 - [Deep learning classification of EEG responses to transcranial electrical stimulation](https://github.com/alexispomares/DL-EEG-TES), published [here on arXiv](https://arxiv.org/abs/2512.20319).
 - A simple [auditory oddball paradigm for EEG/Neurostimulation experimental sessions](https://github.com/alexispomares/auditory-oddball).
 - A [full-body 3D-printed phantom for medical training and research in image-guided surgery](https://github.com/alexispomares/3d-printed-image-guided-surgery).
 - A way to [play mobile games using your (ECG) heart rate in real time](https://github.com/alexispomares/space-heart-attack).
-- A simple setup to have an [Aleph Zero decentralized validator node running in under an hour](https://github.com/alexispomares/aleph-zero-validator).
 - Built [Lymbic.ai](https://lymbic.ai), a startup to develop neuroadaptive apps that integrate the user's mental states (e.g. mood) in real time.
 - Feel free to reach out on [LinkedIn](https://linkedin.com/in/alexispomares)
 
