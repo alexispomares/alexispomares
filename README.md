@@ -2,6 +2,8 @@
 
 This is Alexis, I work at the intersection of mind and machine. Some interesting repos from my journey so far:
 
+- Emulation of the Drosophila fly brain in Brian2, Brian2CUDA, PyTorch, NEST GPU, and neuromorphic chips:  
+  [fly-brain](https://github.com/eonsystemspbc/fly-brain)
 - [Deep learning classification of EEG responses to transcranial electrical stimulation](https://github.com/alexispomares/DL-EEG-TES), published [here on arXiv](https://arxiv.org/abs/2512.20319).
 - A simple [auditory oddball paradigm for EEG/Neurostimulation experimental sessions](https://github.com/alexispomares/auditory-oddball).
 - A [full-body 3D-printed phantom for medical training and research in image-guided surgery](https://github.com/alexispomares/3d-printed-image-guided-surgery).
